@@ -2,6 +2,16 @@
 
 This is a console application written in C# that bypasses Linkvertise URLs and retrieves the final destination URL.
 
+
+
+## 📜 Example And How it works
+- Link : https://linkvertise.com/553166/dig-to-china-script/1
+- Output: Destination: https://discord.gg/comped
+- Success: True
+- Shows if the bypass was Succeded or not.
+
+
+
 ## 📝 Usage
 
 1. Download or clone the repository to your local machine.
